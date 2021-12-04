@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcc54206-26ff-48e9-82f6-87ad6109dfaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14938/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/14938.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/out/production/14938/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14938/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11727.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2579.java" beforeDir="false" />
-    </list>
+    <list default="true" id="fcc54206-26ff-48e9-82f6-87ad6109dfaa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
